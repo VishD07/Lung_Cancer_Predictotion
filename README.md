@@ -6,6 +6,6 @@ Overview This project is property of BiomarkIQ. This project represents a simpli
 
 How to run Make sure all the code, ml model is in same dictory
 
-Use this in command prompet streamlit run health_risk_predictor.py
+Use this in command prompt "streamlit run health_risk_predictor.py"
 
 The app will open at http://localhost:8501. Provide the required inputs to predict your lung cancer risk.
